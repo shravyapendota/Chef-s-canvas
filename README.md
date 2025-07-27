@@ -19,9 +19,6 @@ Chef's Canvas is a feature-rich cookbook application designed for both **users**
 - **Programming Language:** Python
 - **Data Storage:** Basic container data types (lists, dictionaries, tuples)
 
-## 📸 Screenshots (Optional)
-_Add relevant screenshots of your application here._
-
 ## 📌 Future Enhancements
 - 📊 **Recipe Ratings & Reviews**
 - 📅 **Meal Planner & Shopping List**
